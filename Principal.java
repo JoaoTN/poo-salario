@@ -117,6 +117,8 @@ public class Principal{
                                         "4 - Adicionar diária: addDiaria _nomedofuncionário. \n" +
                                         "5 - Dar bônus aos funcionários: setBonus _númerodebônus. \n" +
                                         "6 - Sair do programa: sair.";
+                    
+                    System.out.println(ajudando);
                     break;
             }
         }
